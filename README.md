@@ -1,6 +1,23 @@
-# 💫 About Me:
-👋 Hi, I'm @Sarinx7<br><br>🍃 **I'm interested in**<br>I'm passionate about programming, artificial intelligence, machine learning, and building engaging Discord bots. I enjoy discussing the latest advancements in technology and am always open to exploring new ideas!<br><br>🌱 **I'm currently learning**<br>I'm diving deep into AI and ML at the College of Engineering, Chengannur. I'm also expanding my knowledge of JavaScript frameworks and experimenting with new features for my Discord bot "[Starlyn](https://discord.com/oauth2/authorize?client_id=1221123152466149437&permissions=141737446736&integration_type=0&scope=bot+applications.commands)."<br><br>🚀 **I'm looking to collaborate on**<br>I'm interested in collaborating on open-source projects related to AI, ML, and Discord bot development. If you have an idea, let's chat!<br><br>📫 **How to reach me**<br>You can reach out via email at sarinms7@hotmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sarinms7).<br><br>⚡ **Fun fact**<br>I can talk about technology for hours and never get bored!<br><br>
+# About Me
 
+👋 Hi, I'm **Sarin**
+
+🍃 **Interests**
+I’m deeply passionate about **programming, artificial intelligence and machine learning**. I love exploring new technologies and building projects that make an impact.
+
+🌱 **Currently Learning**
+I’m pursuing **AI & ML** at the *College of Engineering, Chengannur*. Alongside, I’m leveling up my skills in **JavaScript frameworks (React, Next.js)**.
+
+🚀 **Collaboration Goals**
+I’m eager to collaborate on **open-source projects** in **AI, ML, or Web development**. If you’re working on something exciting, let’s connect and build together!
+
+📫 **Reach Me**
+
+* 📧 Email: **[sarinms7@hotmail.com](mailto:sarinms7@hotmail.com)**
+* 💼 [**LinkedIn**](www.linkedin.com/in/sarin-ms)
+
+⚡ **Fun Fact**
+I can talk endlessly about tech—and still be just as excited as when I started!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sarinx777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarinms7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sarin_0007) 
